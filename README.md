@@ -1,4 +1,4 @@
-                                                       EnergyX Fitness Application
+                                                      # EnergyX Fitness Application
 
                                              EPAMeducational internship program (Spring 2025) 
 
