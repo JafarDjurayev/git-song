@@ -1,12 +1,10 @@
 <p align="center"> 
-               <img src="./images/Icon.svg" alt="Pacman Logo" width="80px" height="80px">
+               <img src="./images/Icon.svg" alt="EnergyX Logo" width="80px" height="80px">
 </p>
                             
-                                                        EnergyX Fitness Application
+<h1 align="center"> EnergyX fintess application </h1>
 
-
-                                              EPAM educational internship program (Spring 2025) 
-
+<h5 align="center"> Project Assignment 1 - <a href="https://www.epam.com/">EPAM educational internship program</a> (Spring 2025) </h5>
 
 
 
@@ -181,19 +179,19 @@ The EnergyX app communicates with a backend serverless API to handle:
 
 **User Authentication**  
 - `POST /auth/signup` – Register new users  
-- `POST /auth/login` – Authenticate and receive token  
-- `POST /auth/logout` – Clear session and logout  
+- `POST /auth/sign-in` – Authenticate and receive token  
+
 
 **Workouts**  
-- `GET /workouts` – Fetch available workouts  
-- `POST /workouts/book` – Book a workout with a coach  
+- `GET /workouts/available` – Fetch available workouts  
+- `POST /workouts` – Book a workout with a coach  
 
 **Coaches**  
 - `GET /coaches` – Retrieve all coaches  
-- `GET /coach` – Get individual coach data  
+- `GET /coaches/{coachId}` – Get individual coach data  
 
 **Feedbacks**  
-- `GET /feedbacks` – Retrieve feedback  
+- `GET /coaches/{coachId}/feedbacks` – Retrieve feedback  
 - `POST /feedbacks` – Submit new feedback  
 
 ### Authentication
