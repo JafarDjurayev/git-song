@@ -1,6 +1,6 @@
                                                        EnergyX Fitness Application
 
-                                  [EPAM](https://www.epam.com/) educational internship program (Spring 2025) 
+                                             EPAMeducational internship program (Spring 2025) 
 
 
 
