@@ -8,6 +8,7 @@
 ![Rainbow Gradient Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 📚 Table of Contents
+_____________________________________________________________________________________________________________________________________________________
 
 - [📌 About the Project](#about-the-project)  
 - [📁 Files Description](#files-description)  
