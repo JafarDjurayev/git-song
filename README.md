@@ -4,7 +4,7 @@
                             
 <h1 align="center"> EnergyX fintess application </h1>
 
-<h5 align="center"> Project Assignment 1 - <a href="https://www.epam.com/">EPAM educational internship program</a> (Spring 2025) </h5>
+<h5 align="center"><a href="https://www.epam.com/">EPAM educational internship program</a> (Spring 2025) </h5>
 
 
 
