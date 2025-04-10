@@ -24,7 +24,6 @@
 - [📜 License](#license)  
 - [🙌 Acknowledgments](#acknowledgments)
 
-
 ![Rainbow Gradient Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### About the Project
@@ -40,7 +39,7 @@ Coaches can manage their workouts and monitor users’ activity. Whether you're 
 
 ### Files Description
 
-##### Component Files
+#### Component Files
 - **App.jsx** – Root component for routing and rendering main structure  
 - **Coach.jsx** – Displays details of an individual coach  
 - **Available.jsx** – Lists available workout slots for booking  
@@ -51,14 +50,14 @@ Coaches can manage their workouts and monitor users’ activity. Whether you're 
 - **LoginRequiredModal.jsx** – Modal to prompt login before restricted actions  
 - **WorkoutCard.jsx** – Visual cards displaying workout info  
 
-##### Page Files
+#### Page Files
 - **Coaches.jsx** – List of all available coaches  
 - **Home.jsx** – Application landing page  
 - **Login.jsx** – User login form  
 - **SignUp.jsx** – User registration form  
 - **Workouts.jsx** – List of workouts with booking options  
 
-##### Helper / Utility Files
+#### Helper / Utility Files
 - **auth-store.js** – Zustand store managing user auth state  
 - **utils.js** – Utility functions (e.g., date formatting)  
 - **Layout.jsx** – Page wrapper for consistent layout (e.g., header/footer)
@@ -193,6 +192,7 @@ The EnergyX app communicates with a backend serverless API to handle:
 **Feedbacks**  
 - `GET /coaches/{coachId}/feedbacks` – Retrieve feedback  
 - `POST /feedbacks` – Submit new feedback  
+  
 
 ### Authentication
 
@@ -200,7 +200,8 @@ EnergyX uses **JWT (JSON Web Tokens)** for secure communication. Tokens are stor
 
 ### API Documentation
 
-📘 *For full API documentation, check the [API Docs link (if available)]*.
+📘 *For full API documentation, check the [API Docs](http://cs2-api-ui-hoster-dev1.s3-website.eu-west-3.amazonaws.com/index.html).*
+
 
 ![Rainbow Gradient Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
