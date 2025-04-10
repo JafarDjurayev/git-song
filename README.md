@@ -1,6 +1,11 @@
-                                                       #EnergyX Fitness Application
+<p align="center"> 
+               <img src="./images/Icon.svg" alt="Pacman Logo" width="80px" height="80px">
+</p>
+                            
+                                                     EnergyX Fitness Application
 
-                                             EPAMeducational internship program (Spring 2025) 
+
+                                             EPAM educational internship program (Spring 2025) 
 
 
 
